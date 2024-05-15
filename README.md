@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> I'm Gurtej!</h1>
+<h3 align="center">I love Data Science!</h3>
+
 
 ###
 
