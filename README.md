@@ -37,12 +37,13 @@
 
 ---
 
-### 📈 What I'm Doing Now 
+### 🌱 October 2025 — The Start of Something
 
-- 🧩 Revisiting **DSA fundamentals**
-- 🔥 Learning **PyTorch** and **PySpark**
-- 📘 Sharing daily progress & learnings here on GitHub
-- 🛠️ Planning to contribute to open-source projects soon
+It’s October 2025, and I’ve decided to stop overthinking and just **start**.  
+The plan is simple:  
+- Learn something new every day  
+- Build small projects  
+- Share my progress — even if it’s not perfect  
 
----
+This space is my way to stay consistent and document growth, one day at a time.
 
