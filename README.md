@@ -15,35 +15,16 @@
 🎓 MSc Data Science graduate from **University College Dublin (UCD)**  
 💼 Former **Accenture** Data Engineer  
 🚀 Currently exploring opportunities in **Data Science & AI**  
-🔥 I am documenting my **#75Days** challenge  
-📚 Revisiting **Data Structures & Algorithms**, learning **PyTorch** and **PySpark**  
-🧩 Goal: Try to Learn, build, and share every day. Its October 2025 
+🔥 I am documenting my **#75Days** challenge   
+🧩 Goal: Try to Learn, build, and share every day.
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Databricks-181825?style=for-the-badge&logo=databricks&logoColor=white">
-  <img src="https://img.shields.io/badge/Snowflake-009AD6?style=for-the-badge&logo=snowflake&logoColor=white">
-</p>
-
----
 
 ### 🌱 October 2025 — The Start of Something
 
-It’s October 2025, and I’ve decided to stop overthinking and just **start**.  
-The plan is simple:  
-- Learn something new every day  
-- Build small projects  
-- Share my progress — even if it’s not perfect  
-
-This space is my way to stay consistent and document growth, one day at a time.
+It’s already October 22nd, and I’ve finally decided to just start.  
+I’ve actually begun a bit already — will try to upload that soon.  
+Right now, I’m revisiting **PySpark** (worked on it during my Accenture project), brushing up **scikit-learn**, started Neetcode DSA leetcode sheet and planning to get hands-on with **PyTorch**.  
+Just trying to stay consistent, learn every day, and document the journey as I go.
 
