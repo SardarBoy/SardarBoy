@@ -13,11 +13,11 @@
 ### 🧠 About Me
 
 🎓 MSc Data Science graduate from **University College Dublin (UCD)**  
-💼 Former **Accenture** Analyst  
+💼 Former **Accenture** Data Engineer  
 🚀 Currently exploring opportunities in **Data Science & AI**  
-🔥 On a self-improvement journey — documenting my **#75DaysOfData** challenge  
+🔥 I am documenting my **#75Days** challenge  
 📚 Revisiting **Data Structures & Algorithms**, learning **PyTorch** and **PySpark**  
-🧩 Goal: Learn, build, and share every day — one step at a time  
+🧩 Goal: Try to Learn, build, and share every day. Its October 2025 
 
 ---
 
@@ -37,7 +37,7 @@
 
 ---
 
-### 📈 What I'm Doing Now
+### 📈 What I'm Doing Now 
 
 - 🧩 Revisiting **DSA fundamentals**
 - 🔥 Learning **PyTorch** and **PySpark**
