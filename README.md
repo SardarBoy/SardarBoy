@@ -25,6 +25,6 @@
 
 It’s already October 22nd, and I’ve finally decided to just start.  
 I’ve actually begun a bit already — will try to upload that soon.  
-Right now, I’m revisiting **PySpark** (worked on it during my Accenture project), brushing up **scikit-learn**, started Neetcode DSA leetcode sheet and planning to get hands-on with **PyTorch**.  
+Right now, I’m revisiting **PySpark** (worked on it during my Accenture project), brushing up **scikit-learn**, started **Neetcode DSA leetcode** sheet and planning to get hands-on with **PyTorch**.  
 Just trying to stay consistent, learn every day, and document the journey as I go.
 
