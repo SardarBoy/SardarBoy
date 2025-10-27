@@ -2,12 +2,6 @@
 
 <h3 align="center">A Data Engineer & MSc Data Science Graduate (UCD)</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/isgurtejsingh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
 ---
 
 ### 🧠 About Me
