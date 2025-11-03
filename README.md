@@ -36,5 +36,7 @@ Just trying to stay consistent, learn every day, and document the journey as I g
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SardarBoy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=SardarBoy&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+
