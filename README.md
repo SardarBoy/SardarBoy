@@ -22,7 +22,8 @@ I’ve actually begun a bit already — will try to upload that soon.
 Right now, I’m revisiting **PySpark** (worked on it during my Accenture project), brushing up **scikit-learn**, started **Neetcode DSA leetcode** sheet and planning to get hands-on with **PyTorch**.  
 Just trying to stay consistent, learn every day, and document the journey as I go.
 
-
+### 🌤️ November 2025 — Keeping the Momentum
+Currently working on an Azure project, solving LeetCode problems, and strengthening my DSA foundations. Trying to stay consistent and keep learning every day.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
