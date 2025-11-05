@@ -37,7 +37,7 @@ Currently working on an Azure project, solving LeetCode problems, and strengthen
 
 [![GitHub Streak](https://github-readme-streak-stats-lyart-kappa.vercel.app?user=SardarBoy)](https://git.io/streak-stats)
 
-![My Contributions](https://github.pumbas.net/api/contributions/SardarBoy?colour=DF9149&bgColour=161B22&dotColour=D04E4E)
+
 
 
 
